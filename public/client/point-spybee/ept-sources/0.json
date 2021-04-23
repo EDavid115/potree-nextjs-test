@@ -1,0 +1,88 @@
+{
+  "points.las": {
+    "bounds": [
+      1001140.679088312,
+      1007239.071910141,
+      2492.753120799114,
+      1001665.399088312,
+      1007784.630910141,
+      2607.361120799113
+    ],
+    "metadata": {
+      "comp_spatialreference": "PROJCS[\"unnamed\",GEOGCS[\"GRS 1980(IUGG, 1980)\",DATUM[\"unknown\",SPHEROID[\"GRS80\",6378137,298.257222101],TOWGS84[0,0,0,0,0,0,0]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",4.59620041666667],PARAMETER[\"central_meridian\",-74.0775079166667],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",1000000],PARAMETER[\"false_northing\",1000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+      "compressed": false,
+      "count": 31091217,
+      "creation_doy": 0,
+      "creation_year": 0,
+      "dataformat_id": 2,
+      "dataoffset": 1243,
+      "filesource_id": 0,
+      "global_encoding": 0,
+      "global_encoding_base64": "AAA=",
+      "header_size": 227,
+      "major_version": 1,
+      "maxx": 1001665.399,
+      "maxy": 1007784.631,
+      "maxz": 2607.361121,
+      "minor_version": 2,
+      "minx": 1001140.679,
+      "miny": 1007239.072,
+      "minz": 2492.753121,
+      "offset_x": 1001525.76908831,
+      "offset_y": 1007610.81591014,
+      "offset_z": 2576.34412079911,
+      "point_length": 26,
+      "project_id": "00000000-0000-0000-0000-000000000000",
+      "scale_x": 0.001,
+      "scale_y": 0.001,
+      "scale_z": 0.001,
+      "software_id": "libLAS 1.8.1",
+      "spatialreference": "PROJCS[\"unnamed\",GEOGCS[\"GRS 1980(IUGG, 1980)\",DATUM[\"unknown\",SPHEROID[\"GRS80\",6378137,298.257222101],TOWGS84[0,0,0,0,0,0,0]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",4.59620041666667],PARAMETER[\"central_meridian\",-74.0775079166667],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",1000000],PARAMETER[\"false_northing\",1000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+      "srs": {
+        "compoundwkt": "PROJCS[\"unnamed\",GEOGCS[\"GRS 1980(IUGG, 1980)\",DATUM[\"unknown\",SPHEROID[\"GRS80\",6378137,298.257222101],TOWGS84[0,0,0,0,0,0,0]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",4.59620041666667],PARAMETER[\"central_meridian\",-74.0775079166667],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",1000000],PARAMETER[\"false_northing\",1000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "horizontal": "PROJCS[\"unnamed\",GEOGCS[\"GRS 1980(IUGG, 1980)\",DATUM[\"unknown\",SPHEROID[\"GRS80\",6378137,298.257222101],TOWGS84[0,0,0,0,0,0,0]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",4.59620041666667],PARAMETER[\"central_meridian\",-74.0775079166667],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",1000000],PARAMETER[\"false_northing\",1000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]",
+        "isgeocentric": false,
+        "isgeographic": false,
+        "prettycompoundwkt": "PROJCS[\"unnamed\",\n    GEOGCS[\"GRS 1980(IUGG, 1980)\",\n        DATUM[\"unknown\",\n            SPHEROID[\"GRS80\",6378137,298.257222101],\n            TOWGS84[0,0,0,0,0,0,0]],\n        PRIMEM[\"Greenwich\",0],\n        UNIT[\"degree\",0.0174532925199433,\n            AUTHORITY[\"EPSG\",\"9122\"]]],\n    PROJECTION[\"Transverse_Mercator\"],\n    PARAMETER[\"latitude_of_origin\",4.59620041666667],\n    PARAMETER[\"central_meridian\",-74.0775079166667],\n    PARAMETER[\"scale_factor\",1],\n    PARAMETER[\"false_easting\",1000000],\n    PARAMETER[\"false_northing\",1000000],\n    UNIT[\"metre\",1,\n        AUTHORITY[\"EPSG\",\"9001\"]],\n    AXIS[\"Easting\",EAST],\n    AXIS[\"Northing\",NORTH]]",
+        "prettywkt": "PROJCS[\"unnamed\",\n    GEOGCS[\"GRS 1980(IUGG, 1980)\",\n        DATUM[\"unknown\",\n            SPHEROID[\"GRS80\",6378137,298.257222101],\n            TOWGS84[0,0,0,0,0,0,0]],\n        PRIMEM[\"Greenwich\",0],\n        UNIT[\"degree\",0.0174532925199433,\n            AUTHORITY[\"EPSG\",\"9122\"]]],\n    PROJECTION[\"Transverse_Mercator\"],\n    PARAMETER[\"latitude_of_origin\",4.59620041666667],\n    PARAMETER[\"central_meridian\",-74.0775079166667],\n    PARAMETER[\"scale_factor\",1],\n    PARAMETER[\"false_easting\",1000000],\n    PARAMETER[\"false_northing\",1000000],\n    UNIT[\"metre\",1,\n        AUTHORITY[\"EPSG\",\"9001\"]],\n    AXIS[\"Easting\",EAST],\n    AXIS[\"Northing\",NORTH]]",
+        "proj4": "+proj=tmerc +lat_0=4.59620041666667 +lon_0=-74.0775079166667 +k=1 +x_0=1000000 +y_0=1000000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs",
+        "units": {
+          "horizontal": "metre",
+          "vertical": ""
+        },
+        "vertical": "",
+        "wkt": "PROJCS[\"unnamed\",GEOGCS[\"GRS 1980(IUGG, 1980)\",DATUM[\"unknown\",SPHEROID[\"GRS80\",6378137,298.257222101],TOWGS84[0,0,0,0,0,0,0]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",4.59620041666667],PARAMETER[\"central_meridian\",-74.0775079166667],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",1000000],PARAMETER[\"false_northing\",1000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]"
+      },
+      "system_id": "libLAS",
+      "vlr_0": {
+        "data": "AQABAAAAFQAABAAAAQABAAEEAAABAAEAAgSxhwgAAAAACAAAAQD/fwEIsYdWAAgAAggAAAEA/38GCAAAAQCOIwgIAAABAP9/CQiwhwEABQALCLCHAQAGAA0IsIcBAAcADgiwhwMACAAADAAAAQD/fwIMAAABAP9/AwwAAAEAAQAEDAAAAQApIwgMsIcBAAEACQywhwEAAAAKDLCHAQADAAsMsIcBAAQAFAywhwEAAgAAAAAAAAAAAA==",
+        "description": "GeoTIFF GeoKeyDirectoryTag",
+        "record_id": 34735,
+        "user_id": "LASF_Projection"
+      },
+      "vlr_1": {
+        "data": "lcetXIJiEkDs0MPj9YRSwAAAAAAAAPA/AAAAAICELkEAAAAAgIQuQQAAAECmVFhBqPnrlB2kckAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "description": "GeoTIFF GeoDoubleParamsTag",
+        "record_id": 34736,
+        "user_id": "LASF_Projection"
+      },
+      "vlr_2": {
+        "data": "dW5uYW1lZHxHQ1MgTmFtZSA9IEdSUyAxOTgwKElVR0csIDE5ODApfERhdHVtID0gdW5rbm93bnxFbGxpcHNvaWQgPSBHUlM4MHxQcmltZW0gPSBHcmVlbndpY2h8fAA=",
+        "description": "GeoTIFF GeoAsciiParamsTag",
+        "record_id": 34737,
+        "user_id": "LASF_Projection"
+      },
+      "vlr_3": {
+        "data": "UFJPSkNTWyJ1bm5hbWVkIixHRU9HQ1NbIkdSUyAxOTgwKElVR0csIDE5ODApIixEQVRVTVsidW5rbm93biIsU1BIRVJPSURbIkdSUzgwIiw2Mzc4MTM3LDI5OC4yNTcyMjIxMDFdLFRPV0dTODRbMCwwLDAsMCwwLDAsMF1dLFBSSU1FTVsiR3JlZW53aWNoIiwwXSxVTklUWyJkZWdyZWUiLDAuMDE3NDUzMjkyNTE5OTQzM11dLFBST0pFQ1RJT05bIlRyYW5zdmVyc2VfTWVyY2F0b3IiXSxQQVJBTUVURVJbImxhdGl0dWRlX29mX29yaWdpbiIsNC41OTYyMDA0MTY2NjY2NjZdLFBBUkFNRVRFUlsiY2VudHJhbF9tZXJpZGlhbiIsLTc0LjA3NzUwNzkxNjY2NjY2XSxQQVJBTUVURVJbInNjYWxlX2ZhY3RvciIsMV0sUEFSQU1FVEVSWyJmYWxzZV9lYXN0aW5nIiwxMDAwMDAwXSxQQVJBTUVURVJbImZhbHNlX25vcnRoaW5nIiwxMDAwMDAwXSxVTklUWyJNZXRlciIsMV1dAA==",
+        "description": "OGR variant of OpenGIS WKT SRS",
+        "record_id": 2112,
+        "user_id": "liblas"
+      }
+    },
+    "origin": 0,
+    "points": 31091217,
+    "srs": {
+      "wkt": "PROJCS[\"unnamed\",GEOGCS[\"GRS 1980(IUGG, 1980)\",DATUM[\"unknown\",SPHEROID[\"GRS80\",6378137,298.257222101],TOWGS84[0,0,0,0,0,0,0]],PRIMEM[\"Greenwich\",0],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",4.59620041666667],PARAMETER[\"central_meridian\",-74.0775079166667],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",1000000],PARAMETER[\"false_northing\",1000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH]]"
+    }
+  }
+}

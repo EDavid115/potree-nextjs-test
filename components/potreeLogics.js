@@ -58,7 +58,9 @@ export default function PotreeComponent () {
     //   console.log(scene, material)
     // }).catch(err => console.error('1 Error: ', err))
 
-    const url2 = "./pointclouds/lion_takanawa_normals/cloud.js"
+    // const url2 = "./pointclouds/lion_takanawa_normals/cloud.js"
+    const url2 = "./client/point-spybee/ept.json"
+    // const url2 = 'https://bucket-spybee-pointcloud.s3.us-east-2.amazonaws.com/process/points/list.json'
     Potree.loadPointCloud(url2, "lion").then(event => {
       console.log('2', event)
 
